@@ -1,0 +1,1097 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src
+END
+symbol-ordering.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/symbol-ordering.lisp
+END
+feature-system.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/feature-system.lisp
+END
+output.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/output.fasl
+END
+sorts-functions.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/sorts-functions.lisp
+END
+counters.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/counters.fasl
+END
+ac-rpo.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/ac-rpo.lisp
+END
+deque.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/deque.fasl
+END
+wffs.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/wffs.fasl
+END
+main.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/main.lisp
+END
+equal.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/equal.fasl
+END
+progc.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/progc.fasl
+END
+rows.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/rows.lisp
+END
+terms.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/terms.lisp
+END
+agenda.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/agenda.fasl
+END
+subst.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/subst.lisp
+END
+constraints.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/constraints.lisp
+END
+argument-list-a1.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/argument-list-a1.fasl
+END
+functions.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/functions.lisp
+END
+subsume-bag.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/subsume-bag.lisp
+END
+simplification-ordering.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/simplification-ordering.lisp
+END
+globals.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/globals.lisp
+END
+sorts-interface.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/sorts-interface.fasl
+END
+resolve-code.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/resolve-code.lisp
+END
+collectors.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/collectors.fasl
+END
+eval.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/eval.lisp
+END
+jepd-relations-tables.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/jepd-relations-tables.lisp
+END
+substitute.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/substitute.fasl
+END
+solve-sum.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/solve-sum.lisp
+END
+row-contexts.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/row-contexts.fasl
+END
+unify-vector.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/unify-vector.lisp
+END
+davis-putnam3.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/davis-putnam3.lisp
+END
+term-memory.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/term-memory.fasl
+END
+tptp-symbols.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/tptp-symbols.fasl
+END
+clocks.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/clocks.fasl
+END
+jepd-relations.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/jepd-relations.fasl
+END
+unify-bag.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/unify-bag.fasl
+END
+sparse-vector5.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/sparse-vector5.fasl
+END
+path-index.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/path-index.lisp
+END
+tree-index.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/tree-index.lisp
+END
+mvlet.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/mvlet.fasl
+END
+weight.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/weight.fasl
+END
+code-for-strings2.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/code-for-strings2.lisp
+END
+code-for-numbers2.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/code-for-numbers2.fasl
+END
+map-file.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/map-file.fasl
+END
+sparse-vector-expression.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/sparse-vector-expression.fasl
+END
+variables.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/variables.lisp
+END
+assoc-cache.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/assoc-cache.lisp
+END
+dp-refute.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/dp-refute.fasl
+END
+feature.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/feature.fasl
+END
+sorts.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/sorts.lisp
+END
+code-for-lists2.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/code-for-lists2.lisp
+END
+input.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/input.fasl
+END
+connectives.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/connectives.lisp
+END
+variant.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/variant.fasl
+END
+recursive-path-ordering.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/recursive-path-ordering.fasl
+END
+patches.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/patches.lisp
+END
+term-hash.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/term-hash.lisp
+END
+symbol-table.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/symbol-table.lisp
+END
+infix-reader.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/infix-reader.fasl
+END
+snark-pkg.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/snark-pkg.lisp
+END
+output.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/output.lisp
+END
+agenda-system.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/agenda-system.lisp
+END
+loads.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/loads.lisp
+END
+counters.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/counters.lisp
+END
+deque.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/deque.lisp
+END
+wffs.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/wffs.lisp
+END
+equal.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/equal.lisp
+END
+options.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/options.fasl
+END
+progc.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/progc.lisp
+END
+agenda.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/agenda.lisp
+END
+topological-sort.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/topological-sort.fasl
+END
+useful.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/useful.fasl
+END
+sparse-array.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/sparse-array.fasl
+END
+argument-list-a1.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/argument-list-a1.lisp
+END
+posets.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/posets.fasl
+END
+sparse-array-system.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/sparse-array-system.lisp
+END
+symbol-definitions.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/symbol-definitions.fasl
+END
+numbering.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/numbering.fasl
+END
+tptp.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/tptp.fasl
+END
+nonhorn-magic-set.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/nonhorn-magic-set.fasl
+END
+rewrite-code.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/rewrite-code.fasl
+END
+sorts-interface.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/sorts-interface.lisp
+END
+argument-bag-ac.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/argument-bag-ac.fasl
+END
+unify.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/unify.fasl
+END
+collectors.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/collectors.lisp
+END
+substitute.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/substitute.lisp
+END
+row-contexts.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/row-contexts.lisp
+END
+alists.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/alists.fasl
+END
+term-memory.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/term-memory.lisp
+END
+tptp-symbols.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/tptp-symbols.lisp
+END
+clocks.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/clocks.lisp
+END
+constraint-purify.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/constraint-purify.fasl
+END
+jepd-relations.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/jepd-relations.lisp
+END
+unify-bag.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/unify-bag.lisp
+END
+sparse-vector5.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/sparse-vector5.lisp
+END
+lisp.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/lisp.fasl
+END
+mvlet.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/mvlet.lisp
+END
+weight.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/weight.lisp
+END
+code-for-numbers2.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/code-for-numbers2.lisp
+END
+map-file.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/map-file.lisp
+END
+constants.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/constants.fasl
+END
+sparse-vector-expression.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/sparse-vector-expression.lisp
+END
+interactive.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/interactive.fasl
+END
+dp-refute.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/dp-refute.lisp
+END
+feature.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/feature.lisp
+END
+rewrite.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/rewrite.fasl
+END
+input.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/input.lisp
+END
+date-reasoning2.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/date-reasoning2.fasl
+END
+subsume.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/subsume.fasl
+END
+assertion-file.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/assertion-file.fasl
+END
+variant.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/variant.lisp
+END
+assertion-analysis.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/assertion-analysis.fasl
+END
+infix-operators.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/infix-operators.fasl
+END
+recursive-path-ordering.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/recursive-path-ordering.lisp
+END
+code-for-bags2.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/code-for-bags2.fasl
+END
+coder.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/coder.fasl
+END
+subsume-clause.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/subsume-clause.fasl
+END
+resolve-code-tables.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/resolve-code-tables.fasl
+END
+infix-reader.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/infix-reader.lisp
+END
+dpll-system.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/dpll-system.lisp
+END
+knuth-bendix-ordering.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/knuth-bendix-ordering.fasl
+END
+symbol-ordering.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/symbol-ordering.fasl
+END
+options.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/options.lisp
+END
+sorts-functions.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/sorts-functions.fasl
+END
+ac-rpo.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/ac-rpo.fasl
+END
+topological-sort.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/topological-sort.lisp
+END
+main.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/main.fasl
+END
+useful.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/useful.lisp
+END
+rows.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/rows.fasl
+END
+terms.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/terms.fasl
+END
+sparse-array.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/sparse-array.lisp
+END
+posets.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/posets.lisp
+END
+subst.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/subst.fasl
+END
+symbol-definitions.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/symbol-definitions.lisp
+END
+constraints.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/constraints.fasl
+END
+deque-system.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/deque-system.lisp
+END
+numbering.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/numbering.lisp
+END
+functions.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/functions.fasl
+END
+tptp.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/tptp.lisp
+END
+nonhorn-magic-set.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/nonhorn-magic-set.lisp
+END
+subsume-bag.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/subsume-bag.fasl
+END
+rewrite-code.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/rewrite-code.lisp
+END
+lisp-system.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/lisp-system.lisp
+END
+argument-bag-ac.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/argument-bag-ac.lisp
+END
+unify.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/unify.lisp
+END
+simplification-ordering.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/simplification-ordering.fasl
+END
+infix-reader-system.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/infix-reader-system.lisp
+END
+alists.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/alists.lisp
+END
+constraint-purify.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/constraint-purify.lisp
+END
+globals.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/globals.fasl
+END
+resolve-code.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/resolve-code.fasl
+END
+eval.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/eval.fasl
+END
+jepd-relations-tables.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/jepd-relations-tables.fasl
+END
+lisp.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/lisp.lisp
+END
+solve-sum.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/solve-sum.fasl
+END
+numbering-system.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/numbering-system.lisp
+END
+unify-vector.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/unify-vector.fasl
+END
+davis-putnam3.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/davis-putnam3.fasl
+END
+constants.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/constants.lisp
+END
+interactive.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/interactive.lisp
+END
+path-index.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/path-index.fasl
+END
+rewrite.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/rewrite.lisp
+END
+date-reasoning2.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/date-reasoning2.lisp
+END
+tree-index.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/tree-index.fasl
+END
+subsume.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/subsume.lisp
+END
+assertion-file.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/assertion-file.lisp
+END
+code-for-strings2.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/code-for-strings2.fasl
+END
+variables.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/variables.fasl
+END
+assoc-cache.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/assoc-cache.fasl
+END
+assertion-analysis.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/assertion-analysis.lisp
+END
+sorts.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/sorts.fasl
+END
+infix-operators.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/infix-operators.lisp
+END
+code-for-lists2.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/code-for-lists2.fasl
+END
+code-for-bags2.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/code-for-bags2.lisp
+END
+coder.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/coder.lisp
+END
+subsume-clause.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/subsume-clause.lisp
+END
+connectives.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/connectives.fasl
+END
+resolve-code-tables.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/resolve-code-tables.lisp
+END
+patches.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/patches.fasl
+END
+term-hash.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/term-hash.fasl
+END
+knuth-bendix-ordering.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/knuth-bendix-ordering.lisp
+END
+symbol-table.fasl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/src/symbol-table.fasl
+END

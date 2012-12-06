@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/LICENSE
+END
+make-snark-sbcl64
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/make-snark-sbcl64
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/INSTALL
+END
+snark-system.lisp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/snark-system.lisp
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/compile
+END
+make-snark-sbcl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/make-snark-sbcl
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/logicphysics/!svn/ver/2/trunk/logic.and.relativity/snark-20080805r035/README
+END
